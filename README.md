@@ -35,7 +35,6 @@ Can be found [here](https://github.com/nashamri/spacemacs-theme)
 [Spacemacs](https://github.com/syl20bnr/spacemacs) where this theme began.
 [Spacevim](https://github.com/SpaceVim/SpaceVim), vim's answer to spacemacs.
 
-#### Notes
+##### Notes
 
-The inlcuded `youtube.css` file is being used inside [Stylus](https://addons.mozilla.org/en-US/android/addon/styl-us/) 
-in conjuction with [Enhancer for Youtube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
+The inlcuded `youtube.css` file is being used inside [Stylus](https://addons.mozilla.org/en-US/android/addon/styl-us/) in conjuction with [Enhancer for Youtube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
