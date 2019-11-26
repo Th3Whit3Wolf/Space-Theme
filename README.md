@@ -33,6 +33,7 @@ Can be found [here](https://github.com/nashamri/spacemacs-theme)
 ### Miscellaneous
 
 [Spacemacs](https://github.com/syl20bnr/spacemacs) where this theme began.
+
 [Spacevim](https://github.com/SpaceVim/SpaceVim), vim's answer to spacemacs.
 
 ##### Notes
