@@ -2,6 +2,8 @@
 
 A collection of Spacemacs themes
 
+## Included in this repo
+
 ### GTK
 
 Included in this repo are 3 different Spacemacs Inspired themes created with [oomox](https://github.com/themix-project/oomox)
@@ -9,6 +11,18 @@ Included in this repo are 3 different Spacemacs Inspired themes created with [oo
 * Space-Arc
 * Space-Materia
 * Space-Numix
+
+### [Bat](https://github.com/sharkdp/bat) Theme
+
+### Terminal Themes for:
+
+* Alacritty
+* Kitty
+* Konsole
+
+### KDE Colorscheme
+
+## **NOT** Included in this repo
 
 ### Firefox Theme
 
@@ -29,6 +43,7 @@ Can be found [here](https://github.com/liuchengxu/space-vim-theme.git)
 ### Emacs Theme
 
 Can be found [here](https://github.com/nashamri/spacemacs-theme)
+
 
 ### Miscellaneous
 
