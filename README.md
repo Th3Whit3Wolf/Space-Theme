@@ -24,6 +24,8 @@ Included in this repo are 3 different Spacemacs Inspired themes created with [oo
 
 ### KDE Plasma Theme
 
+### KDE Window Decorations
+
 ## **NOT** Included in this repo
 
 ### Firefox Theme
