@@ -14,6 +14,8 @@ Included in this repo are 3 different Spacemacs Inspired themes created with [oo
 
 ### [Bat](https://github.com/sharkdp/bat) Theme
 
+### Sublime Theme
+
 ### Terminal Themes for:
 
 * Alacritty
@@ -47,7 +49,6 @@ Can be found [here](https://github.com/liuchengxu/space-vim-theme.git)
 ### Emacs Theme
 
 Can be found [here](https://github.com/nashamri/spacemacs-theme)
-
 
 ### Miscellaneous
 
