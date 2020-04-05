@@ -28,6 +28,8 @@ Included in this repo are 3 different Spacemacs Inspired themes created with [oo
 
 ### KDE Window Decorations
 
+### SDDM Theme
+
 ## **NOT** Included in this repo
 
 ### Firefox Theme
